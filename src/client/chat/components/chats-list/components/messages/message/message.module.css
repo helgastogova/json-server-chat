@@ -1,0 +1,10 @@
+.decorated {
+  background: white;
+  box-shadow: var(--small-box-shadow);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}

@@ -1,0 +1,49 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width: 100vw;
+}
+
+.switcher {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  flex: 0 0 300px;
+  max-height: 100vh;
+  overflow-y: scroll;
+
+  @media (max-width: 720px) {
+    flex: 0 0 170px;
+  }
+
+  @media (max-width: 348px) {
+    flex: 0 0 63px;
+  }
+}
+
+.switcherButton {
+  text-align: left;
+  display: flex;
+  width: 100%;
+  padding: 8px;
+  flex-direction: column;
+
+  &:hover,
+  &:active {
+    background: var(--colors-primary2);
+  }
+}
+
+.active {
+  font-weight: bold;
+  background-color: var(--colors-primary3);
+}
+
+.body {
+  padding: 16px;
+  background-color: #e6ebee;
+  flex: 1;
+  max-height: 100vh;
+  overflow-y: scroll;
+}

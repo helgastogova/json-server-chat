@@ -1,0 +1,28 @@
+.root {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: calc(100vw - 300px);
+  display: flex;
+  padding: 10px;
+  box-sizing: border-box;
+
+  @media (max-width: 720px) {
+    width: calc(100vw - 170px);
+  }
+
+  @media (max-width: 348px) {
+    width: calc(100vw - 63px);
+  }
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 8px;
+}
+
+.textarea {
+  flex: 1;
+}

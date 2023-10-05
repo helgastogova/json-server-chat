@@ -1,0 +1,229 @@
+{
+  "chats": [
+    {
+      "id": "5f58bcd7a88fab5f34df94d6",
+      "name": "Friend Chat",
+      "last_updated": "2020-05-04T03:37:18",
+      "messages": [
+        {
+          "id": "5f58bcd7352396fffbae8b6e",
+          "text": "Hey there! How's it going?",
+          "last_updated": "2020-02-16T04:35:16"
+        },
+        {
+          "id": "5f58bcd7f7745918c2252086",
+          "text": "Let's plan a get-together soon.",
+          "last_updated": "2020-03-23T10:06:33"
+        },
+        {
+          "id": "5f58bcd7d95151eaa14ab8aa",
+          "text": "I had a great day at the beach today!",
+          "last_updated": "2020-08-18T11:16:45"
+        },
+        {
+          "id": "72d4c20c-0803-4113-8be8-4dcaccd15b45",
+          "text": "Hello!",
+          "last_updated": "2023-09-17T15:55:33.924Z"
+        },
+        {
+          "id": "fa50f6a1-5dd5-4d72-9119-2c038471ad9b",
+          "text": "Hey! How are you guys???",
+          "last_updated": "2023-09-17T15:59:00.257Z"
+        }
+      ]
+    },
+    {
+      "id": "5f58bcd7200c90cfaac93778",
+      "name": "Family Chat",
+      "last_updated": "2020-01-18T02:37:10",
+      "messages": [
+        {
+          "id": "5f58bcd7d5f9b5ff7c3f4216",
+          "text": "I'm planning a picnic this weekend. Who's in?",
+          "last_updated": "2020-01-02T11:50:36"
+        },
+        {
+          "id": "5f58bcd7587a80c99f3a28e6",
+          "text": "I can't wait for our family reunion next month!",
+          "last_updated": "2020-02-08T01:22:02"
+        },
+        {
+          "id": "5f58bcd7e7211b14921efa23",
+          "text": "Let's celebrate Mom's birthday together.",
+          "last_updated": "2020-02-11T06:04:03"
+        },
+        {
+          "id": "5f58bcd76bf97a358212baab",
+          "text": "Dad's telling his jokes again...",
+          "last_updated": "2020-04-19T10:27:37"
+        },
+        {
+          "id": "5f58bcd7bb6ee157a6ee7be4",
+          "text": "Remember to buy groceries for the weekend.",
+          "last_updated": "2020-06-02T11:14:29"
+        },
+        {
+          "id": "5f58bcd7fd44c584cdc6a3c3",
+          "text": "Just wanted to check in. How's everyone doing?",
+          "last_updated": "2020-07-13T03:56:26"
+        },
+        {
+          "id": "5f58bcd759c87fa1b24db871",
+          "text": "Has anyone seen Dad's glasses?",
+          "last_updated": "2020-09-07T10:33:39"
+        }
+      ]
+    },
+    {
+      "id": "5f58bcd7c23d93722017ccb6",
+      "name": "Work Chat",
+      "last_updated": "2020-05-15T06:24:26",
+      "messages": [
+        {
+          "id": "5f58bcd7bf8843d460502aad",
+          "text": "Don't forget about the client meeting tomorrow.",
+          "last_updated": "2020-02-24T03:21:14"
+        },
+        {
+          "id": "5f58bcd72dfebe40537c379e",
+          "text": "Let's meet at the conference room in 15 minutes.",
+          "last_updated": "2020-05-14T12:24:10"
+        },
+        {
+          "id": "5f58bcd7357fd38a634ada62",
+          "text": "Can someone order lunch for the team?",
+          "last_updated": "2020-07-13T12:50:37"
+        },
+        {
+          "id": "5f58bcd744483b63148b8620",
+          "text": "Great job on the presentation yesterday!",
+          "last_updated": "2020-07-25T07:29:04"
+        },
+        {
+          "id": "5f58bcd7b449b1cfae268ee1",
+          "text": "We need to finish the project by Friday.",
+          "last_updated": "2020-07-31T04:26:38"
+        },
+        {
+          "id": "a74364fe-2ee9-465c-973c-8cc9a65aa5a0",
+          "text": "Hey!",
+          "last_updated": "2023-09-17T21:01:06.130Z"
+        },
+        {
+          "id": "b9eb0d8b-8b53-4656-bde7-a6ed063b7dd6",
+          "text": "Hello!",
+          "last_updated": "2023-09-17T21:40:47.042Z"
+        }
+      ]
+    },
+    {
+      "id": "5f58bcd7e81abbc8cde13cde",
+      "name": "College Friends Chat",
+      "last_updated": "2020-02-23T11:08:58",
+      "messages": [
+        {
+          "id": "5f58bcd72564603b846a41ac",
+          "text": "Remember the crazy parties we had?",
+          "last_updated": "2020-02-16T03:05:41"
+        },
+        {
+          "id": "5f58bcd78cc10cd1c1eab267",
+          "text": "Let's plan a reunion soon.",
+          "last_updated": "2020-03-04T02:50:41"
+        },
+        {
+          "id": "5f58bcd7334d5227c8db9520",
+          "text": "Let's catch up this weekend.",
+          "last_updated": "2020-03-08T05:36:47"
+        },
+        {
+          "id": "5f58bcd7a34519f19acd17ab",
+          "text": "I miss college days! 😄",
+          "last_updated": "2020-03-31T08:52:51"
+        },
+        {
+          "id": "5f58bcd7b1bd2b6c9c60103a",
+          "text": "Anyone up for a movie night?",
+          "last_updated": "2020-04-06T10:26:35"
+        },
+        {
+          "id": "5f58bcd76fbc7df84b0a3cf4",
+          "text": "I found some embarrassing photos from our college days. 😂",
+          "last_updated": "2020-04-11T06:57:03"
+        },
+        {
+          "id": "5f58bcd79c0390617f81a01f",
+          "text": "Let's plan a road trip soon!",
+          "last_updated": "2020-04-29T06:29:58"
+        },
+        {
+          "id": "5f58bcd7a42c13c4c10de5b6",
+          "text": "I found our old yearbook. It's hilarious!",
+          "last_updated": "2020-06-27T01:06:41"
+        },
+        {
+          "id": "5f58bcd750b3180330f4600f",
+          "text": "Remember our late-night study sessions?",
+          "last_updated": "2020-07-26T11:58:12"
+        }
+      ]
+    },
+    {
+      "id": "5f58bcd7a3d6fed0fd68b7a9",
+      "name": "Book Club Chat",
+      "last_updated": "2020-04-08T06:45:00",
+      "messages": [
+        {
+          "id": "5f58bcd7494bcc51e9df2d4e",
+          "text": "I found a rare edition of a classic book today!",
+          "last_updated": "2020-01-21T05:19:04"
+        },
+        {
+          "id": "5f58bcd79d24061ede254048",
+          "text": "I found a hidden gem at the bookstore yesterday!",
+          "last_updated": "2020-02-14T02:14:32"
+        },
+        {
+          "id": "5f58bcd7e99102f90e2c9130",
+          "text": "Reading is my escape from reality.",
+          "last_updated": "2020-03-15T10:43:57"
+        },
+        {
+          "id": "5f58bcd7a6bf2527d1bde8cd",
+          "text": "Let's have a cozy reading night this weekend.",
+          "last_updated": "2020-03-25T05:35:35"
+        },
+        {
+          "id": "5f58bcd706ac7b83822c692f",
+          "text": "What should we read next?",
+          "last_updated": "2020-04-08T06:26:18"
+        },
+        {
+          "id": "5f58bcd75e712600083cd4e6",
+          "text": "I can't stop recommending the last book we read.",
+          "last_updated": "2020-04-17T04:37:53"
+        },
+        {
+          "id": "5f58bcd7f7f92c4b24287bbd",
+          "text": "Let's have a book exchange soon.",
+          "last_updated": "2020-05-16T11:17:31"
+        },
+        {
+          "id": "5f58bcd7c34da3af332cc958",
+          "text": "I just finished reading the latest book. It was amazing!",
+          "last_updated": "2020-06-15T06:40:25"
+        },
+        {
+          "id": "5f58bcd7e0a785e3e5516e47",
+          "text": "Our book club meetings are the highlight of my month.",
+          "last_updated": "2020-07-10T06:56:34"
+        },
+        {
+          "id": "5f58bcd79cac300d1980db1b",
+          "text": "Our book club members are the best!",
+          "last_updated": "2020-08-01T07:23:38"
+        }
+      ]
+    }
+  ]
+}

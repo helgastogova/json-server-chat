@@ -1,0 +1,40 @@
+{
+  "name": "blink-test-task",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev-all": "concurrently \"npm run dev\" \"npm run server\"",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "format:check": "prettier --check \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "server": "node src/server/index.js"
+  },
+  "dependencies": {
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "axios": "^1.5.0",
+    "classnames": "^2.3.2",
+    "date-fns": "^2.30.0",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "formik": "^2.4.5",
+    "json-server": "^0.17.3",
+    "next": "13.4.19",
+    "postcss-nested": "^6.0.1",
+    "prettier": "^3.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-truncate-markup": "^5.1.2",
+    "typescript": "5.2.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.4",
+    "@typescript-eslint/eslint-plugin": "^6.7.0"
+  }
+}

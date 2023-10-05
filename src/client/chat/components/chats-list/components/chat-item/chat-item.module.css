@@ -1,0 +1,19 @@
+.root {
+  width: 100%;
+  display: flex;
+  gap: 9px;
+  align-items: start;
+}
+
+.avatar {
+  margin-top: 3px;
+}
+
+.wrapper {
+  flex: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
