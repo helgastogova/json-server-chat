@@ -1,9 +1,5 @@
 https://github.com/helgastogova/blink/assets/3423341/3aebbc2d-fcc6-4a2b-aa9e-e33844e47e97
 
-## Test Task Details
-
-The data for this project is stored in JSON format, and I used [JSON Server](https://github.com/typicode/json-server) for handling the data. I found it to be the simplest and most optimal solution for the current task.
-
 ## Running the Project
 
 To run the project, follow these steps:
