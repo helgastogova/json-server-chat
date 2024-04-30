@@ -1,5 +1,6 @@
 https://github.com/helgastogova/blink/assets/3423341/3aebbc2d-fcc6-4a2b-aa9e-e33844e47e97
 
+
 ## Running the Project
 
 To run the project, follow these steps:
