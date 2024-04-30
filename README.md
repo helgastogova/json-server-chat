@@ -1,4 +1,8 @@
-https://github.com/helgastogova/blink/assets/3423341/3aebbc2d-fcc6-4a2b-aa9e-e33844e47e97
+
+
+https://github.com/helgastogova/json-server-chat/assets/3423341/3911a640-7ffe-4dbe-96bd-d26d3e09d89d
+
+
 
 
 ## Running the Project
